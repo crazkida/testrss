@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.fda.gov/">
+  <channel>
+    <title>MedWatch Safety Alerts RSS Feed</title>
+    <link>http://www.fda.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Peritoneal Dialysis Set Correction: Baxter Issues Correction for MiniCap Extended Life Peritoneal Dialysis Transfer Sets Due to Risk of Patient Exposure to Higher Than Allowable Levels of Toxic Compound NDL-PCBA and/or NDL-PCBs</title>
+  <link>https://www.hud.gov/sites/dfiles/CFO/documents/2024_CJ_Program_HAG.pdf</link>
+  <description>Use of Baxter MiniCap Extended Life PD Transfer Sets  during peritoneal dialysis may expose patients to higher than allowable NDL-PCBAs.</description>
+  <pubDate>Mon, 31 Mar 2025 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/medical-devices/medical-device-recalls/peritoneal-dialysis-set-correction-baxter-issues-correction-minicap-extended-life-peritoneal</guid>
+    </item>
+<item>
+  <title>Vascular Cannula Recall: Medtronic Removes Aortic Root Cannula Due to Unexpected Loose Material in the Male Luer</title>
+  <link>https://www.fda.gov/media/84201/download</link>
+  <description>Aortic Root Cannulas are used during heart surgery. There is a risk of extra material in the device due to a manufacturing error.</description>
+  <pubDate>Mon, 31 Mar 2025 00:00:00 EDT</pubDate>
+    <dc:creator>FDA</dc:creator>
+    <guid isPermaLink="true">http://www.fda.gov/medical-devices/medical-device-recalls/vascular-cannula-recall-medtronic-removes-aortic-root-cannula-due-unexpected-loose-material-male</guid>
+    </item>
+  </channel>
+</rss>
